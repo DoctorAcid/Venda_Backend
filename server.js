@@ -15,14 +15,14 @@ const db = knex({
         host : 'dpg-cgvtnr1euhlhlbi04gng-a',
         port: "5432",
         user : 'venda_user',
-        password: 'IfXGJJJM6tc7CGwGbnL8DR5ffmd3GK5U',
+        password: 'IfXGJJJM6tc7CGwGbnL8DR5ffmd3GK5U111',
         database : 'venda'
     }
 });
 
 // const db = new Client({
 //     user: "venda_user",
-//     password: "IfXGJJJM6tc7CGwGbnL8DR5ffmd3GK5U",
+//     password: "IfXGJJJM6tc7CGwGbnL8DR5ffmd3GK5U111",
 //     host: "dpg-cgvtnr1euhlhlbi04gng-a",
 //     port: "5432",
 //     database: "venda"
